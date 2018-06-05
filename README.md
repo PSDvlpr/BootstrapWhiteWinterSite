@@ -1,6 +1,6 @@
 # White Winter Site
 
-Link: https://psdvlpr.github.io/BootstrapWhiteWinterSite/
+<a href='https://psdvlpr.github.io/BootstrapWhiteWinterSite/'>Live preview</a>
 
 
 ## Build with
